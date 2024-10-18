@@ -1,8 +1,7 @@
-## Usage
-
 ### Steps to Integrate PAAC with DevOps Deploy using Jenkins
 
 #### Illustration of an Integration Architecture
+![Image 1](../media/Step0.png)
 
 ##### Prerequisites:
 - Jenkins should be installed.
